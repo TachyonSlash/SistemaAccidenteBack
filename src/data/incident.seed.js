@@ -67,3 +67,5 @@ let incidents = [
         upcatedAT: "2026-01-19T14:30:00Z"
     }
 ]
+
+module.exports = incidents;
